@@ -1,0 +1,15 @@
+{
+  "name": "lanbot",
+  "version": "1.0.0",
+  "description": "Discord bot and UI for managing voice channels and teams during custom games and lan parties",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Ryan Cluff",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
