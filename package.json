@@ -4,6 +4,7 @@
   "description": "Discord bot and UI for managing voice channels and teams during custom games and lan parties",
   "main": "src/bot.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/bot.js",
     "dev": "nodemon ./src/bot.js"
   },
